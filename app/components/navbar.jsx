@@ -16,7 +16,9 @@ export function Navbar() {
                             <Link rel="stylesheet" href="/contact" >Contact</Link>
                         </li>
                         <li className="hover:text-blue-300">
-                            <Link rel="stylesheet" href="/" ><img src="/LOGO.svg" alt="" /></Link>
+                            <Link rel="stylesheet" href="/" >
+                                <img src="/LOGO.svg" alt="" />
+                            </Link>
                         </li>
                         <li className="hover:text-blue-300">
                             <Link rel="stylesheet" href="/archive" >Archive</Link>
